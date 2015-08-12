@@ -1,3 +1,3 @@
 LICENSE
 
-Sample license file for test_project.
+This is a sample license file for test_project.
